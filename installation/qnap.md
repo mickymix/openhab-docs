@@ -54,7 +54,7 @@ If you want to keep configuration files, copy them to a save place outside of th
 
 1.  Go to the "App Center" and remove the app like any other.
 
-2.  Additionally if wanted or needed, please remove the folders "addons", "conf" and "userdata" from the your directory, eg. "openHAB2" share or "Public"/openHAB2
+2.  Additionally if wanted or needed, please remove the folders "addons", "conf" and "userdata" from the your directory, eg. "openHAB" share or "Public/openHAB"
    If you have installed openHAB2 to `.qpkg` (see "How to install", third option) then all files get removed automatically.
 
 ## Known issues
